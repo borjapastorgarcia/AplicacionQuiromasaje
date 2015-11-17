@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AplicacionQuiromasaje</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity_registro">activityRegistro</string>
+    <string name="title_activity_activity_administrador">activityAdministrador</string>
+    <string name="title_activity_activity_usuario">ACtivityUsuario</string>
+</resources>
